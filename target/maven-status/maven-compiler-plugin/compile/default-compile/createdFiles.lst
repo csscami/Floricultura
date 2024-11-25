@@ -1,0 +1,4 @@
+model\Flor.class
+view\FlorView.class
+model\FlorRepository.class
+controller\FlorController.class
